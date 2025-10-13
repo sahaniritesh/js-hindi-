@@ -218,5 +218,5 @@ const user = {
 user.welcomemessage()
 user.price = 1999
 user.welcomemessage="Sahani"
-user.welcomemessage()
+// user.welcomemessage()
 
